@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+button:hover{
+    background-color: #fff;
+    color: #000;
+}
 .first{
     margin-top: 23px;
 }
